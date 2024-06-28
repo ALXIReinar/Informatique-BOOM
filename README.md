@@ -37,7 +37,7 @@ from need_text import search_words
 
 ![smth2](https://sun9-65.userapi.com/impg/Wv1hcbICHV_-ofZGB77bogRIpxvNKdNouT3kOg/qh9renGBbiI.jpg?size=1920x1080&quality=95&sign=c06d51be94e47c8d1e77bf4c984fc1ef&type=album)
 
-## Features:wink:
+## Features :wink:
 
 * The main and CONVENIENT feature of this idea is that the result of the work is copied to the clipboard:see_no_evil:, which is cool when you can't sit in the development environment during the exam, but you can sit, for example, in a notebook))
 
